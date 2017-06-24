@@ -1,0 +1,17 @@
+table{
+	border-collapse: collapse;
+	background: #fcfcfc;
+	width: 630px;
+	height: 200px;
+	font-family: Arial, sans-serif;
+}
+th{
+	text-align: left;
+	border-bottom: 1px solid #2d95bc;
+}
+.line{
+	border-bottom: 1px solid #2d95bc;
+}
+.new-table{
+	margin-top: 10px;
+}
